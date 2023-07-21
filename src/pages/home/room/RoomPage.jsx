@@ -11,7 +11,7 @@ const kitToken=ZegoUIKitPrebuilt.generateKitTokenForTest(
   appId,
   serverSecret,
   roomId,
-  Date.now().toString(),  'Chris',
+  Date.now().toString(),  'Christ',
   )
 
   const zp=ZegoUIKitPrebuilt.create(kitToken);
