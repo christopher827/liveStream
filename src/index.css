@@ -23,7 +23,7 @@ margin-bottom: 20px; /* Add spacing between elements */
 }
   
 .form label {
-  display: block; /* Display label as block element */
+ display: block; /* Display label as block element */
     font-size: 50px;
 margin-bottom: 30px;
   }
