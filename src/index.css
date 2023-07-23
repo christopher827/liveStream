@@ -63,7 +63,7 @@ margin-bottom: 30px;
   }
   
   @media screen and (max-width: 480px) {
-    .form label {
+  .form label {
       font-size: 20px;
     }
   
