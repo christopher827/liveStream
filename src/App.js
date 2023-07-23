@@ -5,7 +5,7 @@ import RoomPage from "./pages/home/room/RoomPage";
 
 function App() {
   return (
-  <div className="App">
+<div className="App">
 <Routes>
 <Route path="/" element={<HomePage/>}/>
 <Route path="/room/:roomId" element={<RoomPage/>}/>
