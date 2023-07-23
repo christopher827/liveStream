@@ -11,7 +11,7 @@ function App() {
 <Route path="/room/:roomId" element={<RoomPage/>}/>
 </Routes>
     </div>
-  );
+);
 }
 
 export default App;
