@@ -13,7 +13,7 @@ navigate(`/room/${roomCode}`)
 return (
   <div className='home-page'>
 <form className='form' onSubmit={handleFormSubmit}>
-  <div>
+<div>
 <label>Enter Room Code</label>
 <input type='text' required placeholder='Enter Room Code' value={roomCode} onChange={e=>setRoomCode(e.target.value)}/>
 </div>
