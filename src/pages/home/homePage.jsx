@@ -19,7 +19,7 @@ return (
   </div>
   <button className='' type='submit'>Enter Room</button>
 </form>
-    </div>
+  </div>
   )
 }
 export default HomePage
