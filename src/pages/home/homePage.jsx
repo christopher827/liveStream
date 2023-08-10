@@ -5,7 +5,7 @@ function HomePage() {
 const [roomCode,setRoomCode]=useState('')
 const navigate=useNavigate()
 const handleFormSubmit=(e)=>{
-    e.preventDefault();
+e.preventDefault();
 navigate(`/room/${roomCode}`)
   }
 
