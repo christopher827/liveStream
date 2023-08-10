@@ -30,7 +30,7 @@ margin-bottom: 30px;
   
 .form input[type='text']
    {
-    display: block; 
+  display: block; 
     width: 100%; 
     padding: 10px;
     outline: none;
