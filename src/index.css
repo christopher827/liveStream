@@ -28,8 +28,7 @@ font-size: 50px;
 margin-bottom: 30px;
   }
   
-.form input[type='text']
-   {
+.form input[type='text']   {
 display: block; 
 width: 100%; 
   padding: 10px;
