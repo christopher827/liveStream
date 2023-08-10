@@ -11,7 +11,7 @@ navigate(`/room/${roomCode}`)
   }
 
 return (
-    <div className='home-page'>
+  <div className='home-page'>
 <form className='form' onSubmit={handleFormSubmit}>
   <div>
     <label>Enter Room Code</label>
