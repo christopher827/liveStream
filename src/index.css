@@ -26,7 +26,7 @@ margin-bottom: 20px; /* Add spacing between elements */
  display: block; /* Display label as block element */
 font-size: 50px;
 margin-bottom: 30px;
-  }
+}
   
 .form input[type='text']   {
 display: block; 
