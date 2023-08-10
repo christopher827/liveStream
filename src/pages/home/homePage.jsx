@@ -16,7 +16,7 @@ return (
   <div>
   <label>Enter Room Code</label>
   <input type='text' required placeholder='Enter Room Code' value={roomCode} onChange={e=>setRoomCode(e.target.value)}/>
-  </div>
+</div>
 <button className='' type='submit'>Enter Room</button>
 </form>
 </div>
