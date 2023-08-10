@@ -15,7 +15,7 @@ return (
 <form className='form' onSubmit={handleFormSubmit}>
   <div>
     <label>Enter Room Code</label>
-    <input type='text' required placeholder='Enter Room Code' value={roomCode} onChange={e=>setRoomCode(e.target.value)}/>
+  <input type='text' required placeholder='Enter Room Code' value={roomCode} onChange={e=>setRoomCode(e.target.value)}/>
   </div>
 <button className='' type='submit'>Enter Room</button>
 </form>
