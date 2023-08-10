@@ -4,6 +4,7 @@ import { useNavigate } from 'react-router-dom';
 function HomePage() {
 const [roomCode,setRoomCode]=useState('')
 const navigate=useNavigate()
+  
 const handleFormSubmit=(e)=>{
 e.preventDefault();
 navigate(`/room/${roomCode}`)
